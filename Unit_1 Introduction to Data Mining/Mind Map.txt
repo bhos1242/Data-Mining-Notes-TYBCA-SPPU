@@ -1,0 +1,149 @@
+1.2
+Data Mining Issues
+                       (Forest Adventure)
+
+      Messy Data       Too Much Data      Finding the Right Gems
+       (Jumbled       (Overwhelming     (Identifying valuable
+      forest floor)    forest trees)      patterns & insights)
+
+         |                 |                     |
+         |                 |                     |
+         |                 |                     |
+     Biased Data        Overfitting         Data Privacy
+   (Exploring only    (Crafting a map     (Respecting sensitive
+   one part of the    based on limited   areas & data protection)
+   forest)            locations)
+
+         |                 |                     |
+         |                 |                     |
+         |                 |                     |
+       Interpreting Results        <-----      Data Mining
+     (Deciphering ancient symbols)    ----->    (Data Forest Journey)
+
+============================================================================
+
+1.3 Stages of the Data Mining Process (KDD)
+
+         Data Mining Process (Treasure Hunt)
+
+                Getting Ready
+               (Data Preparation)
+
+                   |        |
+                   |        |
+                   |        |
+          Exploring         Finding Treasures
+       (Data Exploration)   (Data Modeling/Interpretation)
+
+                   |        |
+                   |        |
+                   |        |
+               Clean &     Discover Valuable
+             Organize Data   Patterns & Insights
+
+                   |        |
+                   |        |
+                   |        |
+        Collect Information   Make Smart Decisions
+=============================================================================
+1.4 Data Mining Techniques/Tasks
+
+         Data Mining Techniques/Tasks
+                (Treasure Hunt)
+
+     --------------------------------
+    |       |          |             |
+    |       |          |             |
+    |       |          |             |
+Clustering Classification Regression Text Mining
+(Grouping Data) (Sorting Data) (Predicting Values) (Understanding Text)
+    |        |          |             |
+    |        |          |             |
+    |        |          |             |
+   Association Rule   Anomaly Detection
+   (Finding Links)   (Spotting Oddities)
+
+     --------------------------------
+                      |
+                      |
+                      |
+                 Prediction
+             (Forecasting Trends)
+=============================================================================
+
+1.5 Knowledge Representation Methods
+
+      Knowledge Representation Methods
+               (Language of Computers)
+
+        Logical Statements
+           (Language-like)
+
+               /       \
+              /         \
+             /           \
+    Concept Maps    Frames
+   (Visual Maps)    (Organized Templates)
+
+               \           /
+                \         /
+                 \       /
+          Semantic Networks
+         (Linked Concepts)
+
+                  |
+                  |
+                  |
+                Rules
+     (Step-By-Step Instructions)
+
+                  |
+                  |
+                  |
+              Ontologies
+       (Hierarchical Organization)
+===================================================
+1.6 Applications of Data Mining
+
+- Examples:
+  - Shopping Habits
+  - Netflix Recommendations
+  - Credit Card Fraud Detection
+  - Healthcare Insights
+  - Social Media Friend Suggestions
+  - Traffic Predictions
+  - Online Shopping Deals
+  - Crop Growth Optimization
+
+- Shopping Habits:
+  - Discover patterns
+  - Optimize stock
+
+- Netflix Recommendations:
+  - Analyze viewing history
+  - Suggest similar content
+
+- Credit Card Fraud Detection:
+  - Identify unusual spending
+  - Prevent fraud
+
+- Healthcare Insights:
+  - Analyze patient data
+  - Find correlations
+
+- Social Media Friend Suggestions:
+  - Analyze connections
+  - Recommend friends
+
+- Traffic Predictions:
+  - Use historical data
+  - Estimate travel time
+
+- Online Shopping Deals:
+  - Recommend products
+  - Increase sales
+
+- Crop Growth Optimization:
+  - Analyze weather/soil
+  - Optimize planting
+

@@ -1,0 +1,10 @@
+Data mining = searching for hidden gems in a treasure trove of information.
+Process of exploring large data sets.
+Goal: Discover valuable patterns, insights, and relationships.
+Uncover knowledge not immediately obvious.
+Similar to a miner digging for precious metals.
+Helps businesses make better decisions, improve processes, understand customers.
+Turns raw data into valuable nuggets of wisdom.
+
+
+
